@@ -37,7 +37,9 @@ Link deploy sản phẩm test 2 [Link Test 2](https://sparkling-cupcake-6047c6.n
 # Bài 4
 
 Với testcase mẫu kết quả thu được là
+
 ![My Image](image/Screenshot%202024-10-10%20224244.png)
 
 Kết quả thu được
+
 ![My Image](image/Screenshot%202024-10-10%20223454.png)

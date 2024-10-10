@@ -32,3 +32,8 @@ Link deploy sản phẩm test 2 [Link Test 2](https://sparkling-cupcake-6047c6.n
 3. Khi thiếu các trường dữ liệu ![My Image](image/Screenshot%202024-10-10%20210250.png)
 
 4. Khi nhập thành công ![My Image](image/Screenshot%202024-10-10%20210332.png)
+
+# Bài 3
+
+Với testcase mẫu kết quả thu được là
+![My Image](image/Screenshot%202024-10-10%20223454.png)

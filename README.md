@@ -3,15 +3,23 @@
 # Bài 1
 
 Link deploy sản phẩm test 1 [Link Test 1](https://resonant-cupcake-feca40.netlify.app/)
-1. Kéo thả file  **đề bài test_report.xlsx** vô mục thả tệp
+1. Kéo thả file  <u>**đề bài test_report.xlsx**</u> vô mục thả tệp
 ![My Image](image/Screenshot%202024-10-10%20205444.png)
+
 2. Bấm vào gửi (nếu sai định dạng sẽ báo lỗi)
+![My Image](image/Screenshot%202024-10-10%20210644.png)
+
 3. Tải file lên
 ![My Image](image/Screenshot%202024-10-10%20205516.png)
-3. Kết quả trả về 
+
+4. Kết quả trả về 
 ![My Image](image/Screenshot%202024-10-10%20205533.png)
-4. Kết quả truy vấn trên thời gian
+
+5. Kết quả truy vấn trên thời gian
 ![My Image](image/Screenshot%202024-10-10%20205716.png)
+
+6. Nếu thời gian truy vấn sai(thòi gian bắt đầu lớn hơn thời gian kết thúc) sẽ báo lỗi phải nhập lại
+![My Image](image/Screenshot%202024-10-10%20210810.png)
 
 # Bài 2
 
